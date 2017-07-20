@@ -1,0 +1,248 @@
+www.deloittedigital.com 
+
+
+Twitter 
+
+@deloittedigital 
+
+Srikanth Vattikonda 
+
+Mobile Number 
+
+India (+91) 964-213-3345
+
+Senior Consultant 
+
+E-mail 
+
+Deloitte Consulting India Pvt Ltd 
+
+svattikonda@deloitte.com 
+
+Summary of experience and qualifications 
+
+• Having 9+ years of professional experience in full SDLC development involving requirement analysis, design, development, testing, 
+documentation, implementation & maintenance software applications in Web-based/Enterprise environment, Distributed n-tier 
+architecture. 
+• Proficient in Java/J2EE, XML, Struts 2, Spring 3.x (IOC, WEB, ORM, AOP, TEST), Spring Boot, Spring Security, EJB 3.x, Hibernate, JPA and 
+Web services. 
+• Having around 1 year of experience with AEM 6.0. 
+• Good hands on experience with Ajax, Java Script, JQuery. 
+• Proficient in build tool like Maven. 
+• Good experience with database MySQL, Sql Server, Oracle. 
+• Proficient in versioning/source control tools SVN, GIT. 
+• Good experience in working with application life cycle management tool TFS. 
+• Experience in working with servers Tomcat 5, Jboss 5 & AS7, Jboss EAP. 
+• Good experience with Agile methodologies (SCRUM). 
+• Efficient in implementing the projects using SCRUM. 
+• Strong experience in understanding business application, business data flow and data relations in between them. 
+• Good Team member but also has ability to work independently with minimal supervision to meet deadlines. 
+• Strong analytical skills, flexible and willingness to learn new technologies. 
+
+Deloitte experience 
+
+
+
+Industry: Financial Services Service Area: Technology 
+
+Service Line: Deloitte Digital 
+Role: Sr Developer Duration: 8 Months 
+The client, an Australian arm of an international retail bank, operates on values of clear products, simple processes, anytime anywhere 
+
+banking, customer empowerment, and continuous improvements through innovations and digitization. 
+
+The objectives of the Project is to implement the NPP (New Payments Platform) solution which enables the bank to provide real time 
+payments for their customers and enable real time fraud detection. 
+
+Role Description: 
+
+• Working with business team in gathering requirements. 
+• Designing and providing technical implementation adhering to architectural designs and as per business requirements. 
+• Helping out team members in technical decisions and technical implementations. 
+• Writing well designed and maintainable code. 
+• Technical lead for offshore development team. 
+• Mentoring and helping other developers. 
+• Performing code reviews and ensure the code is implemented using best coding standards and practices. 
+Technical Environment: 
+
+JAVA/J2EE, EJB 3.x, Spring Boot, Netty, Web Services, Hibernate, JPA, Maven, TFS. 
+
+
+Industry: Financial Services Service Area: Technology 
+
+Service Line: Deloitte Digital 
+Role: Software Developer Duration: 16 Months 
+The client, an Australian arm of an international retail bank, operates on values of clear products, simple processes, anytime anywhere 
+
+banking, customer empowerment, and continuous improvements through innovations and digitization. 
+
+The objectives of the Project and overall Program is to upgrade existing web and mobile touch points for better performance and user 
+experience for the customers. 
+
+Role Description: 
+
+• Working with business team in gathering requirements. 
+• Designing and providing technical implementation adhering to architectural designs and as per business requirements. 
+• Helping out team members in technical decisions and technical implementations. 
+• Writing well designed and maintainable code. 
+• Improvising the performance of the services. 
+• Mentoring and helping other developers. 
+• Performing code reviews and ensure the code is implemented using best coding standards and practices. 
+• Being SPOC and technical lead for offshore development team. 
+Technical Environment: 
+
+JAVA/J2EE, EJB 3.x, Web Services, Hibernate, JPA, Maven, TFS. 
+
+
+Industry: TMT Service Area: Technology 
+Service Line: Deloitte Digital 
+Role: AEM Developer Duration: 6 Months 
+Client is one of the largest American cloud computing companies. 
+
+The objective of the project is to migrate the existing content management system to AEM and to support future growth globally and 
+incorporate emerging trends in web marketing in a scalable, flexible manner. 
+
+Role Description: 
+
+• Involved in design phase and implementation. 
+• Creating required templates, Developing of sling resource type servlets and developing of AEM components like SSI, cinemagraph, 
+containers, re-usable footer etc.. 
+• Created automation migration script for automatically migrating the existing pages to AEM using Java. 
+Technical Environment: 
+
+AEM 6.0, Java Script, Java, Mac OS 
+
+
+Industry: Public Sector Service Area: Technology 
+
+Service Line: Deloitte Digital 
+Role: Software Developer Duration: 18 Months 
+Clients were Australian Universities and local government councils. 
+
+A web-based software application developed to assist organizations in complying with the requirements of relevant policies, 
+procedures, systems, internal controls, risk management, financial and management reporting. It has been designed as a support tool 
+for internal audit functions, to streamline the process of communication within the organization and assist in the reporting required by 
+Audit Committees. 
+
+Role Description: 
+
+• Understanding the requirement for the enhancements needs to be implemented in the existing product and analyzing the impacts on 
+the existing system and providing a generic and feasible solutions. 
+• Improving the performance of the existing application. 
+• Implementing code with best practices. 
+• Implemented application specific reports generation in word formats using docx4j API, excel formats using Apache POI API and PDF 
+formats using iText API. 
+Technical Environment: 
+
+JAVA, J2EE, Spring-core, Spring-mvc, Spring Security, Hibernate, JPA, Java Script, jQuery, Maven, SVN. 
+
+
+Previous experience 
+
+
+
+Industry: Transportation 
+Role: Software Developer Duration: 42 Months 
+Client is an online air travel booking company which helps travel service providers enhance their customer reach through an extended 
+distribution system, offer richer customer experience, while leveraging state-of-the-art technologies. 
+
+Role Description: 
+
+• Involved in design and development of the project from the scratch. Worked in close with Architect and Business team for gathering 
+requirements. 
+• Involved in architectural design and preparing class level diagram of various modules. 
+• Involved in Design, Development, Unit Testing and Integration of the functionalities of all the modules. 
+• Finding out the cross concerned functionalities and designing them as aspects and implementing those aspects using Spring AOP. 
+• Designed and developed the modules based on spring annotation based configuration instead of XML based configurations. 
+• Using JPA to manage the entities and creating the relation between entities. Implementation of DAO layer using Spring, JPA and 
+Hibernate. 
+• Extensively and proficiently worked on implementation of consuming web services provided by various third party vendors. 
+Implemented various customized struts 2.x interceptors that intercepts the incoming requests to the application. 
+• Extensively used struts 2 framework for rendering the data and implementing several interceptors like customer login check, request 
+tracking, IP tracking. Developed customized struts 2 plug-ins. 
+• Configuration of Tiles in the application. Used different struts 2 result types like JSON, Redirect-Action, Tiles etc. 
+• Extensively worked Java Script, AJAX, jQuery and JSON for creating various customized components like auto-completer, radio-
+buttons, overlays etc... 
+Technical Environment: 
+
+JAVA, J2EE, Struts 2.x, Spring Core, AOP and ORM, JPA, Hibernate, Java Script, jQuery, AJAX, JBoss, My SQL, Maven, SVN, MyEclipse 
+Enterprise Workbench 
+
+
+Industry: Financial Services 
+Role: Software Developer Duration: 15 Months 
+Client is an ecommerce company which enables its customers for making payments, purchasing and selling goods online for various 
+kinds of requirements. 
+
+Role Description: 
+
+• Participating in Design, Development, Unit Testing and Integration of owned modules. 
+• Implementing Web services calls based on WSDL. 
+• Developing persistent domain objects and writing XML to map Tables to Objects in Domain Object Layer using Hibernate. 
+• Preparation of Test Data and Test Cases for Unit Testing (Junit). 
+• Designing Jboss JBPM work flow. Developing Spring container configuration files. 
+Technical Environment: 
+
+JAVA, J2EE, Spring core, ORM and DAO, Jboss JBPM, Maven 2.0, Hibernate, SVN, Eclipse. 
+
+System experience 
+
+Software/Products: 
+
+SVN, GIT, TFS, SOAP UI, Eclipse, Jboss Developer Studio 
+
+Development tools/Languages: 
+
+Java/J2EE, Spring 3.x (IOC, AOP, ORM, WEB, TEST), Spring Boot, Spring Security, Struts 2.x, Web Services, JPA 2.x, Hibernate 4.x, Junit 4.x, 
+Easy Mock 3.x, Log4j, AEM 6.0, Java Script, Ajax, jQuery 
+
+Hardware/Operating systems: 
+
+Windows, Mac (IOS) 
+
+
+Middleware/Databases: 
+
+MySQL, Sql Server, Oracle 
+
+General Tools: 
+
+MS Office 
+
+Education 
+
+
+B.Tech, Electronics And Communications Engineering 
+Jawaharlal Nehru Technological University 
+
+Foreign Language Skills 
+
+
+English Proficient in Business 
+
+Internal References 
+
+
+Shakeel Sawar 
+Senior Manager 
+(+91) 40 6670 6664 
+
+ssawar@deloitte.com 
+
+Shubham Srivastava 
+Manager 
+(+91) 901 036 6009 
+shubhsrivastava@deloitte.com 
+
+
+Tirumala Srinivas 
+Manager 
+(+91) 970 482 2284 
+stirumala@deloitte.com 
+
+Rajesh Rajendran 
+Manager 
+(+91) 800 888 9324 
+rrajendran@deloitte.com 
+
+

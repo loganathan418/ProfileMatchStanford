@@ -1,0 +1,156 @@
+Job Description
+ 
+
+
+
+
+
+JAVA - Consultant - Hyderabad/Bangalore-E18HCCONBS- Java
+
+
+Description
+
+JAVA DEVELOPER
+
+ 
+
+Are you looking to work at a place that builds robust, high-quality software solutions?  ‘Deloitte Consulting’ is the answer. 
+
+As a Consultant at Deloitte Consulting, you will be responsible for crafting, developing, and deploying the software solutions at an enterprise level. You will be working with functional teams in the project located at offshore as well as onshore.
+
+You will need to understand functional requirements and should be able to develop technical design, using standard patterns and be able to communicate the same effectively to the team members. 
+
+ 
+
+Work you’ll do
+
+ 
+
+•Solve technically complex problems along with impact analysis.
+
+
+•Assess the impacts on technical design because of the changes in functional requirements.
+
+
+•Perform independent code reviews and execute unit tests on modules developed by self and other junior team members on the project.
+
+
+•Participate in daily status calls/reporting the task status to leads.
+
+
+Job Location- Hyderabad & Bengaluru
+
+Timing- 9:00AM to 6:00PM or 11:00AM to 8:00PM
+
+ 
+
+The team
+
+Deloitte Consulting LLP’s Technology Consulting practice is dedicated to helping our clients build tomorrow by solving today’s complex business problems involving strategy, procurement, design, delivery, and assurance of technology solutions. Our service areas include analytics and information management, delivery, cyber risk services, and technical strategy and architecture, as well as the spectrum of digital strategy, design, and development services offered by Deloitte Digital. Learn more about our Technology Consulting practice on www.deloitte.com.
+
+ 
+
+Qualifications
+
+Required:
+
+•Overall 4 - 6 yrs. of design/development experience using Java technology stack.
+
+
+•Education Qualification: BE, ME, B.Tech, M.Tech, MCA M.S
+
+
+•Should be strong in OOPS concepts, Core Java, Collections
+
+
+•Should have experience in Web Technologies JSP2.0 and Servlets2.3 & JSTL1.2.
+
+
+•Should have experience in JDBC and any OR mapping engines (Hibernate, iBatis etc.).
+
+
+•Should have knowledge on any one of web frameworks and Persistence framework. 
+
+
+•Ability to develop JAXWS standard Web services to expose and consume.
+
+
+•Should have knowledge on EJB. 
+
+
+•Should have experience on various application server platforms and their supporting tools (Weblogic, Jboss and Websphere etc.,)
+
+
+•Ability to write build/configuration scripts using Build tools (Ant, Maven and scripting)
+
+
+•Should have experience on various design patterns
+
+
+•Should have knowledge on UML (Class, Sequence, Domain Model)
+
+
+•Strong knowledge on RDBM concepts. Ability to Write SQL with complex joins and should be able to use database functions
+
+
+•Should have knowledge on Configuration Tools (Subversion, CVS etc.,)
+
+
+ 
+
+Preferred:
+
+•Nice to have knowledge on JPA 2.0, Struts 2.x/JSF and any Object Relation (OR) mapping engines like Hibernate, iBatis etc. and Struts.
+
+
+•Nice to have knowledge on AJAX and various supporting toolkits (richfaces etc.,)
+
+
+•Nice to have knowledge on JMS, listeners configuration, queue configuration etc., Batch scheduling techniques (Quartz)
+
+
+•Should be able to communicate clearly with cross teams in the project (E.g. Functional/Development/Testing).
+
+
+•Should be a good team player and a quick learner with an aptitude to pick up things fast.
+
+
+•Must be dynamic with a strong sense of responsibility and positive attitude.
+
+ 
+
+
+How you’ll grow
+
+At Deloitte, we’ve invested a great deal to create a rich environment in which our professionals can grow. We want all our people to develop in their own way, playing to their own strengths as they hone their leadership skills. And, as a part of our efforts, we provide our professionals with a variety of learning and networking opportunities—including exposure to leaders, sponsors, coaches, and challenging assignments—to help accelerate their careers along the way. No two people learn in exactly the same way. So, we provide a range of resources including live classrooms, team-based learning, and eLearning. DU: The Leadership Center in India, our state-of-the-art, world-class learning Center in the Hyderabad offices is an extension of the Deloitte University (DU) in Westlake, Texas, and represents a tangible symbol of our commitment to our people’s growth and development. Explore DU: The Leadership Center in India
+
+ 
+
+ 
+
+Benefits
+
+At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you. 
+
+ 
+
+Deloitte’s culture
+
+Our positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We offer well-being programs and are continuously looking for new ways to maintain a culture that is inclusive, invites authenticity, leverages our diversity, and where our people excel and lead healthy, happy lives.  Learn more about Life at Deloitte.
+
+ 
+
+Corporate citizenship
+
+Deloitte is led by a purpose: to make an impact that matters. This purpose defines who we are and extends to relationships with our clients, our people and our communities.  We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities.  Learn more about Deloitte’s impact on the world.
+
+
+
+
+ 
+
+  
+ 
+
+
+ 
