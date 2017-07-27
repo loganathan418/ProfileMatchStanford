@@ -1,4 +1,4 @@
-package com.deloitte.profilematch.stanford.sample;
+package com.stanford.profilematch;
 
 import java.io.File;
 import java.io.IOException;

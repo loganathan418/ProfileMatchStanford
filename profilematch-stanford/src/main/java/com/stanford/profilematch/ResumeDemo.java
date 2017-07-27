@@ -1,4 +1,4 @@
-package com.deloitte.profilematch.stanford.sample;
+package com.stanford.profilematch;
 
 import java.util.List;
 import java.util.Set;
